@@ -4,22 +4,22 @@
 
 ### Proficient in:
  - Python
-  - Tkinter
-  - Typer
-  - FastAPI
-  - Flask
-  - Pytorch
-  - Tensorflow
+   - Tkinter
+   - Typer
+   - FastAPI
+   - Flask
+   - Pytorch
+   - Tensorflow
  - Go
  - C#
  - Java/Kotlin
  - Javascript/Typescript
-  - React
-    - Next.js
-    - React Native
-    - Electron
-  - Vue
-  - Svelte
+   - React
+     - Next.js
+     - React Native
+     - Electron
+   - Vue
+   - Svelte
  
  Some experience:
  - C, C++
