@@ -20,7 +20,10 @@
      - Electron
    - Vue
    - Svelte
+  - XCPng/XenOrchestrator
+  - Proxmox VE
  
  Some experience:
  - C, C++
  - Rust
+ - Vmware vSphere
