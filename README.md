@@ -14,6 +14,16 @@
 * Quark is a simple 3d WebGL renderer I wrote for a school project.
 * I started working on it after I realized that I didn't have a full understanding as to how 3d rendering works, and there's no better way to learn it than to do it myself.
 
+### Everything I do is hosted almost entirely on my own hardware
+* I have a Proxmox cluster made up of old enterprise PCs I liberated from the trash room.
+  * Thousands of perfectly usable computers are thrown away because it's the easiest option for companies
+  * Especially with planned obsolesence, more perfectly usable electronics are being thrown away than ever.
+  * Even if it's just a couple of systems, it still means they won't make end up in a landfill, wasting away, while wars are being fought over the little remaining resources left.
+  * 
+ ![please don't mind the spaghetti](https://github.com/liemeldert/liemeldert/assets/45272685/759e4551-cec0-48b3-9713-d34a4912383a)
+
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liemeldert&count_private=true&show_icons=true&theme=tokyonight)
 
