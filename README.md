@@ -19,7 +19,9 @@
   * Thousands of perfectly usable computers are thrown away because it's the easiest option for companies
   * Especially with planned obsolesence, more perfectly usable electronics are being thrown away than ever.
   * Even if it's just a couple of systems, it still means they won't make end up in a landfill, wasting away, while wars are being fought over the little remaining resources left.
-  * 
+  * Ignore the wire spaghetti, please.
+    * I've been trying to condense things down to something I can take with me to college and run off a cell hotspot.
+    * I have zero open ports and run everything through tailscale to an nginx proxy in DigitalOcean so things can run through CG-NAT.
  ![please don't mind the spaghetti](https://github.com/liemeldert/liemeldert/assets/45272685/759e4551-cec0-48b3-9713-d34a4912383a)
 
 
