@@ -11,8 +11,8 @@
 * But I've since widened the scope to include other features that I hope to get working soon like schedule improvements and better ways to visualize assignments.
 
 ### Quark
-Quark is a simple 3d WebGL renderer I wrote for a school project.
-I started working on it after I realized that I didn't have a full understanding as to how 3d rendering works, and there's no better way to learn it than to do it myself.
+* Quark is a simple 3d WebGL renderer I wrote for a school project.
+* I started working on it after I realized that I didn't have a full understanding as to how 3d rendering works, and there's no better way to learn it than to do it myself.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liemeldert&count_private=true&show_icons=true&theme=tokyonight)
