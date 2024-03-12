@@ -1,5 +1,4 @@
 ## Hey there 👋
-**My goal is to use my skills to solve problems I find.**
 
 ## Some projects I've been working on lately:
 
