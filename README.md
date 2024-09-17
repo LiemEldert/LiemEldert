@@ -1,4 +1,5 @@
 ## Hey there 👋
+I'm Liem, and I'm a 1/4 Computer Engineering major at Stevens!
 
 ## Some projects I've been working on lately:
 
@@ -19,10 +20,6 @@
   * Ignore the wire spaghetti, please.
     * I've been trying to condense things down to something I can take with me to college and run off a cell hotspot.
     * I have zero open ports and run everything through tailscale to an nginx proxy in DigitalOcean so things can run through CG-NAT.
- ![please don't mind the spaghetti](https://github.com/liemeldert/liemeldert/assets/45272685/759e4551-cec0-48b3-9713-d34a4912383a)
-
-
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liemeldert&count_private=true&show_icons=true&theme=tokyonight)
 
