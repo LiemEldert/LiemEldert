@@ -3,14 +3,12 @@ I'm Liem, and I'm a 1/4 Computer Engineering major at Stevens!
 
 ## Some projects I've been working on lately:
 
+** Unfortunently with the courseload from school, its been hard to find time to work on both. **
+
 ### Micromanage
 * MicroMDM based open source device management platform
 * Written with Next.JS and FastAPI
 * Very work in progress, but with plans to support agents for other systems in addition to Apple MDM.
-
-### Quark
-* Quark is a simple 3d WebGL renderer I wrote for a school project.
-* I started working on it after I realized that I didn't have a full understanding as to how 3d rendering works, and there's no better way to learn it than to do it myself.
 
 ### Everything I do is hosted almost entirely on my own hardware
 * I have a Proxmox cluster made up of old enterprise PCs I liberated from the trash room.
@@ -19,7 +17,8 @@ I'm Liem, and I'm a 1/4 Computer Engineering major at Stevens!
   * Even if it's just a couple of systems, it still means they won't make end up in a landfill, wasting away, while wars are being fought over the little remaining resources left.
   * Ignore the wire spaghetti, please.
     * I've been trying to condense things down to something I can take with me to college and run off a cell hotspot.
-    * I have zero open ports and run everything through tailscale to an nginx proxy in DigitalOcean so things can run through CG-NAT.
+    * I have zero open ports and run everything through tailscale to an nginx proxy in DigitalOcean so things can run with CG-NAT.
+     * This is crucial because its running off the campus network and hotspot. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liemeldert&count_private=true&show_icons=true&theme=tokyonight)
 
